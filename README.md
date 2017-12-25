@@ -11,7 +11,7 @@ Relevant Information:<br>
 Dataset Information<br>
   --- Data are separated by participant<br>
   --- Each file contains the following information<br>
-&nbsp &nbsp &nbsp---- Index Number, x-axis, y-axis, z-axis, label <br>
+				---- Index Number, x-axis, y-axis, z-axis, label <br>
   --- Labels are codified by numbers<br>
      --- 1 - Sitting while working at computer (4-5 mins)<br>
      --- 2 - Talking while standing (4-5 mins)<br>
